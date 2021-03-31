@@ -1,0 +1,43 @@
+body {
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4IWyvinZBMDMMYpjiNZepH8Phe-QjQ16FMg&usqp=CAU);
+background-size: cover; /*make the image to cover all the parts */
+text-align: center;/*set the text to the centre of the webpage*/
+padding-top: 100px;/*positioning text*/
+}
+
+h1{
+  padding-top: 80px;
+  color:#2f3542;/*colour of the text*/
+}
+h2{
+  color:#2f3542;/*colour*/
+
+}
+
+.navbar {
+   overflow: hidden;  
+  position: fixed;
+  top: 0;          
+  left: 60vh;
+   width: 100%;   /*background-size */
+}
+
+.navbar a {
+  float: left;    
+  display: block;
+  color: #f2f2f2;
+  text-align: center;  
+  padding: 14px 20px;/*separation of words*/
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color:#2f3542;
+  
+}
+
+  
+
+
